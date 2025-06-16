@@ -26,4 +26,5 @@ It allows users to input any **text or URL** and generates a QR code that can be
 
 ## 📋 How to Use
 
-1. 📂 Open the project in any web browser by launching the `index
+1. 📂 Open the project in any web browser by launching the `index.
+s

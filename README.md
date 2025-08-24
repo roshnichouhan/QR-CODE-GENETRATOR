@@ -42,5 +42,6 @@ qr code api → qr image generation
 
 clone the repo
 
-git clone https://github.com/your-username/qr-code-generator.git
+git clone 
+https://github.com/roshnichouhan/QR-CODE-GENETRATOR.git
 cd qr-code-generator

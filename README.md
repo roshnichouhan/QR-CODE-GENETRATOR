@@ -1,30 +1,46 @@
-# QR-CODE-GENETRATOR
-# 🚀 QR Code Generator
+QR Code Generator (HTML • CSS • JavaScript • API)
 
-This project is a simple **QR Code Generator** built using **HTML**, **CSS**, and **JavaScript**.  
-It allows users to input any **text or URL** and generates a QR code that can be scanned by any QR scanner or camera.
+A simple QR Code Generator built with HTML, CSS, and JavaScript.
+This project uses the goqr.me API
+ (or any free QR service) to generate QR codes dynamically from user input.
 
----
+✨ features
 
-## ✨ Features
+generate qr instantly using api
 
-- ✅ Generate QR codes from text or links  
-- 🎨 Simple and clean user interface  
-- 📱 Mobile-friendly and responsive layout  
-- 🌐 Uses an external API to generate the QR image  
+input any text or url
 
----
+select qr size (up to 1000px)
 
-## 🛠️ Technologies Used
+download qr as .png
 
-- **HTML** – for structure  
-- **CSS** – for styling  
-- **JavaScript** – for functionality  
-- **QR Code API** – [https://api.qrserver.com/v1/create-qr-code/](https://api.qrserver.com/v1/create-qr-code/)  
+no backend required
 
----
+🚀 demo
 
-## 📋 How to Use
+🔗 add your live link here:
 
-1. 📂 Open the project in any web browser by launching the `index.
-s
+file:///C:/Users/Public/QR%20CODE%20GENERTOR/index.html
+
+🗂️ project structure
+qr-code-generator-api/
+├─ index.html
+├─ style.css
+└─ script.js
+
+🛠️ tech stack
+
+html5 → structure
+
+css3 → styling
+
+javascript (es6) → logic
+
+qr code api → qr image generation
+
+📥 setup
+
+clone the repo
+
+git clone https://github.com/your-username/qr-code-generator.git
+cd qr-code-generator
